@@ -1,2 +1,4 @@
 vscode_files/*
 **/__pycache__/*
+**/*.daw
+pliki_testowe/*
